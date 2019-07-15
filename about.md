@@ -41,7 +41,7 @@ Brazil, 87025
     
 *   #### DB1
     #### Gerente de Configuração de Software
-    Nov 2014 - Mar 2019
+    Nov 2014 - Mar 2019  
     \- Junto com a equipe implantou uma nova prática de versionamento de código fonte, a fim de organizar alterações de código de forma eficiente, através da estratégia de branching do GitFlow com Mercurial.  
     \- Desenvolveu um sistema para controle de dependência de repositórios, componentes e produtos, e cada configuração usando entre 5 e 17 repositórios diferentes, diminuindo a complexidade de gerar uma nova versão.  
     \- Desenvolveu uma ferramenta para melhorar o processo de atualizações, onde scripts oracle DDL e DML, executam de forma sequencial da versão do cliente para a atual versão, sem a necessidade de utilizar o SQL Developer para executar, reduzindo o tempo de atualização e evitando erros durante o processo.  
@@ -55,21 +55,20 @@ Brazil, 87025
     \- Desenvolvimento de indicadores gerenciais utilizando ferramentas internas com Querys, logs, etc., com o PowerBI.  
     \- Desenvolvimento de página de central de ajuda ao cliente, e instalação e configuração de outra página com perguntas e respostas utilizando o Question2Answer.
     
-*   #### DB1
     #### Desenvolvedor de Software
-    Fev 2013 - Nov 2014
+    Fev 2013 - Nov 2014  
     \- Desenvolvimento de sistema ERP, atuando em rotinas de vendas, faturamento, compras e separação para distribuidoras.  
     \- Desenvolvimento em Delphi7 e Oracle 11g.  
     \- Desenvolvimento de ferramenta visual para acompanhamento de falhas em cada nível do processo, suporte segundo nível, desenvolvimento e homologação,notificando todos os colaboradores da equipe.
     
 *   #### Total Soluções Ltda
     #### Suporte Técnico
-    Jun 2011 - Dez 2011
+    Jun 2011 - Dez 2011  
     Suporte a clientes e desenvolvimento de relatórios utilizando Firebird e o ERP.
     
 *   #### JALOTO TRANSPORTES
     #### Auxiliar de Escritório
-    Fev 2008 -  Mar 2011
+    Fev 2008 -  Mar 2011  
     \- Junto com a equipe confeccionou um novo modelo de envelope para o registro de viagens abastecimentos e despesas de forma a reduzir os erros de preenchimento e facilitar a leitura.  
     \- Desenvolvimento de relatórios utilizando PL/SQL e Crystal Reports para todos os setores da empresa.
     
@@ -78,16 +77,16 @@ Brazil, 87025
 
 *   #### Projeto Pescadores de Vidas
     #### Voluntário
-    [https://www.pescadoresdevidas.org.br/](https://www.pescadoresdevidas.org.br/)
-    Jan 2013 - Jan 2018
+    [https://www.pescadoresdevidas.org.br/](https://www.pescadoresdevidas.org.br/)  
+    Jan 2013 - Jan 2018  
     
     A Missão dos Pescadores de Vidas é mostrar para as crianças e adolescentes uma nova perspectiva de vida em todas as suas áreas desde o pessoal ao profissional, através de links com instituições de ensino superior público e privado.  
       
     
 *   #### DB1 ao Cubo
     #### Professor
-    [http://www.desafiodocodigo.com.br](http://www.desafiodocodigo.com.br)
-    Jun 2016 - Jun 2018
+    [http://www.desafiodocodigo.com.br](http://www.desafiodocodigo.com.br)  
+    Jun 2016 - Jun 2018  
     
     Plataforma baseada em gameficação que oferece um conjunto de atividades práticas em desenvolvimento de software que atestam os níveis de conhecimento dos colaboradores do Grupo DB1 nas linguagens .Net, Arquitetura de Software, Java, JavaScript, PHP, SQL e Delphi e Análise de Negócios, entre outros.
     
@@ -96,21 +95,21 @@ Brazil, 87025
 
 *   #### Unicesumar
     #### Tecnólogo
-    Sistemas para Internet
-    Jan 2015 - Jan 2017
-    (Web Design e Dispositivos Móveis)
+    Sistemas para Internet  
+    Jan 2015 - Jan 2017  
+    (Web Design e Dispositivos Móveis)  
     
 ### Awards
 
 *   #### Ninja Kaizen - 2018
-    Mar 2019
-    DB1 Global Software
+    Mar 2019  
+    DB1 Global Software  
     
     Os Ninjas Kaizen tem a habilidade de estar sempre de olho nas oportunidades de melhoria, e não só isso, também aplicam na prática e compartilham suas ações que resultam em ganhos para o time. O Ninja Kaizen é o colaborador que mais registrou melhorias na DB1 Global Software.
     
 *   #### Destaque Hackathon 2015 TICNOVA - Equipe Economize
-    Ago 2015
-    TICNOVA
+    Ago 2015  
+    TICNOVA  
     
     Evento:  
     No Hackathon foram formados 16 grupos de 4 de desenvolvedores tinham como meta idealizar, planejar e desenvolver algo com foco no meio ambiente com um dos três temas: Energia, Nascentes de Fundos de Vales e Trânsito, dos quais foram propostos pela organização do evento no primeiro dia . A maratona começou as 15h00 do sábado e terminou às 18h00 do domingo, com apresentação dos resultados dos trabalhos. A atividade aconteceu no Shopping Maringá Park.  
