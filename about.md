@@ -1,5 +1,4 @@
-David Corbetta - Analista de Sistemas - veloCV
-
+*   [About](#basics)
 *   [Basics](#basics)
 *   [Work](#work)
 *   [Volunteer](#volunteer)
@@ -10,29 +9,15 @@ David Corbetta - Analista de Sistemas - veloCV
 *   [Interests](#interests)
 *   [References](#references)
 
-David Corbetta
-==============
-
-Analista de Sistemas
---------------------
-
-![](https://velocv.com/storage/profiles/b22500ddb246a1f12d85642e17ba6b8b.jpeg)
+### About
 
 Carreira profissional desenvolvida na área de tecnologia da informação, buscando melhorar e automatizar processos sempre que possível.  
 
 ### Basics
 
-[http://www.davidcorbetta.com](http://www.davidcorbetta.com)
-
-\[javascript protected email address\]/\*\*/eval("var a=\\"qGkJoEstlLzTcmYW24@A5\_rBd-XNOwiK7CDUgfFZnephbMS08.R63QHI+1uyvx9jPVa\\";var b=a.split(\\"\\").sort().join(\\"\\");var c=\\"hIHvevImbe9.bhIupMvvekhIQ\\";var d=\\"\\";for(var e=0;e<c.length;e++)d+=b.charAt(a.indexOf(c.charAt(e)));document.getElementById(\\"e193929416\\").innerHTML=\\"<a href=\\\\\\"mailto:\\"+d+\\"\\\\\\">\\"+d+\\"</a>\\"")/\*\*/
-
 (44)9 9945-1669
 
-Maringá
-
-Paraná
-
-Brasil
+Brazil, 87025
 
 *   [Linkedin](https://www.linkedin.com/in/david-corbetta-b086272b)
 *   [Skype](skype://davidfcorbetta)
@@ -51,19 +36,12 @@ Brasil
 ### Work
 
 *   #### Matera
-    
     #### Analista de sistemas
-    
     Mar 2019
     
 *   #### DB1
-    
     #### Gerente de Configuração de Software
-    
-    Nov 2014
-    
-    Mar 2019
-    
+    Nov 2014 - Mar 2019
     \- Junto com a equipe implantou uma nova prática de versionamento de código fonte, a fim de organizar alterações de código de forma eficiente, através da estratégia de branching do GitFlow com Mercurial.  
     \- Desenvolveu um sistema para controle de dependência de repositórios, componentes e produtos, e cada configuração usando entre 5 e 17 repositórios diferentes, diminuindo a complexidade de gerar uma nova versão.  
     \- Desenvolveu uma ferramenta para melhorar o processo de atualizações, onde scripts oracle DDL e DML, executam de forma sequencial da versão do cliente para a atual versão, sem a necessidade de utilizar o SQL Developer para executar, reduzindo o tempo de atualização e evitando erros durante o processo.  
@@ -78,35 +56,20 @@ Brasil
     \- Desenvolvimento de página de central de ajuda ao cliente, e instalação e configuração de outra página com perguntas e respostas utilizando o Question2Answer.
     
 *   #### DB1
-    
     #### Desenvolvedor de Software
-    
-    Fev 2013
-    
-    Nov 2014
-    
+    Fev 2013 - Nov 2014
     \- Desenvolvimento de sistema ERP, atuando em rotinas de vendas, faturamento, compras e separação para distribuidoras.  
     \- Desenvolvimento em Delphi7 e Oracle 11g.  
     \- Desenvolvimento de ferramenta visual para acompanhamento de falhas em cada nível do processo, suporte segundo nível, desenvolvimento e homologação,notificando todos os colaboradores da equipe.
     
 *   #### Total Soluções Ltda
-    
     #### Suporte Técnico
-    
-    Jun 2011
-    
-    Dez 2011
-    
+    Jun 2011 - Dez 2011
     Suporte a clientes e desenvolvimento de relatórios utilizando Firebird e o ERP.
     
 *   #### JALOTO TRANSPORTES
-    
     #### Auxiliar de Escritório
-    
-    Fev 2008
-    
-    Mar 2011
-    
+    Fev 2008 -  Mar 2011
     \- Junto com a equipe confeccionou um novo modelo de envelope para o registro de viagens abastecimentos e despesas de forma a reduzir os erros de preenchimento e facilitar a leitura.  
     \- Desenvolvimento de relatórios utilizando PL/SQL e Crystal Reports para todos os setores da empresa.
     
@@ -114,28 +77,17 @@ Brasil
 ### Volunteer
 
 *   #### Projeto Pescadores de Vidas
-    
     #### Voluntário
-    
     [https://www.pescadoresdevidas.org.br/](https://www.pescadoresdevidas.org.br/)
-    
-    Jan 2013
-    
-    Jan 2018
+    Jan 2013 - Jan 2018
     
     A Missão dos Pescadores de Vidas é mostrar para as crianças e adolescentes uma nova perspectiva de vida em todas as suas áreas desde o pessoal ao profissional, através de links com instituições de ensino superior público e privado.  
       
-    Conheça o projeto: [http://pescadoresdevidas.org.br](http://pescadoresdevidas.org.br)
     
 *   #### DB1 ao Cubo
-    
     #### Professor
-    
     [http://www.desafiodocodigo.com.br](http://www.desafiodocodigo.com.br)
-    
-    Jun 2016
-    
-    Jun 2018
+    Jun 2016 - Jun 2018
     
     Plataforma baseada em gameficação que oferece um conjunto de atividades práticas em desenvolvimento de software que atestam os níveis de conhecimento dos colaboradores do Grupo DB1 nas linguagens .Net, Arquitetura de Software, Java, JavaScript, PHP, SQL e Delphi e Análise de Negócios, entre outros.
     
@@ -143,32 +95,21 @@ Brasil
 ### Education
 
 *   #### Unicesumar
-    
     #### Tecnólogo
-    
     Sistemas para Internet
-    
-    Jan 2015
-    
-    Jan 2017
-    
+    Jan 2015 - Jan 2017
     (Web Design e Dispositivos Móveis)
     
-
 ### Awards
 
 *   #### Ninja Kaizen - 2018
-    
     Mar 2019
-    
     DB1 Global Software
     
     Os Ninjas Kaizen tem a habilidade de estar sempre de olho nas oportunidades de melhoria, e não só isso, também aplicam na prática e compartilham suas ações que resultam em ganhos para o time. O Ninja Kaizen é o colaborador que mais registrou melhorias na DB1 Global Software.
     
 *   #### Destaque Hackathon 2015 TICNOVA - Equipe Economize
-    
     Ago 2015
-    
     TICNOVA
     
     Evento:  
@@ -196,49 +137,35 @@ Brasil
 ### Skills
 
 *   Scrum
-    
 *   SQL
-    
 *   Banco de dados
-    
 *   PL/SQL
-    
 *   Oracle
-    
 *   Gestão de projetos
-    
 *   Gestão de configuração de software
     
-
 ### Languages
 
 *   Inglês
-    
     Limited working proficiency
-    
 *   Português
-    
     Native or bilingual
     
 
 ### Interests
 
 *   Faça você mesmo
-    
     *   DIY
 *   DevOps
-    
     *   DevOps
     *   CI
     *   CD
     *   Deploy
 *   Trilha de Bicicleta
-    
     *   bike
     *   trail
     *   ciclismo
 *   Experiência do Usuário
-    
     *   UX
     *   Design cognitivo
     *   UI
@@ -249,8 +176,3 @@ Brasil
 *   O David é a referência em Design na equipe em que trabalhamos na DB1, sempre que precisamos de coisa nova, visual novo, recorremos a ele que, como gosta do tema, logo aceita os desafios que lhe oferecemos.
     
     Renato Françoso (Sênior Software Developer)
-    
-
-Created with [VeloCV](http://velocv.com?r=31) - Orbit theme by [VeloCV](http://velocv.com)
-
-require(\["/themes/orbit/orbit.js"\])
