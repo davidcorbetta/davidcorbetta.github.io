@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como escrever um pseudocódigo?
+title: Escrever pseudocódigo
 ---
 Vamos a algumas definições antes de realmente responder.
 
