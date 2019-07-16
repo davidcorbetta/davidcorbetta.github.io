@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como ordenar uma consulta por texto especifico
+title: Ordenar uma consulta por texto especifico
 ---
 
 A algum tempo foi preciso fazer a ordernação de uma coluna de uma maneira bem expecifica:
