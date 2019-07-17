@@ -17,19 +17,19 @@ avatar: https://avatars3.githubusercontent.com/u/4293390?s=256&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  #dribbble:
+  dribbble:
   email: contato@davidcorbetta.com
-  #facebook:
-  #flickr:
+  facebook:
+  flickr:
   github: davidcorbetta
-  #instagram:
+  instagram:
   linkedin: david-corbetta-b086272b
-  #pinterest:
+  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: davidcorbetta_
   stackoverflow: users/17340/david
-  #youtube: # channel/<your_long_string> or user/<user-name>
-  #googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
