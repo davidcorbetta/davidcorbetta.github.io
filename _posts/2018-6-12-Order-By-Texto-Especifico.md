@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ordenar uma consulta por texto especifico
+tags: oracle
 ---
 
 A algum tempo foi preciso fazer a ordernação de uma coluna de uma maneira bem expecifica:
