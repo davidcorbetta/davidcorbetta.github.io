@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Escrever pseudocódigo
+title: Escrever código com linguagem simples
+tags: pseudocódigo algoritmo
 ---
-Vamos a algumas definições antes de realmente responder.
-
-Segundo [Wikipedia][1]:
+Não é necessário ser um programador para escrever algo que possa ser programado, você precisa de alguma maneira expressar o que quer, de maneira lógica com inicio meio e fim, para isso podemos utilizar Pseudocódigo.
 
 > **Pseudocódigo** é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa a quem o escreve, de forma a
 > ser entendida por qualquer pessoa) sem necessidade de conhecer a
 > sintaxe de nenhuma linguagem de programação.
+<sup>Fonte: [Wikipedia][1]</sup>
 
 Um exemplo utilizado em instituições de ensino, é o compilador [Visualg][2], do qual facilita a ilustração de um algoritmo, de forma que todos os programadores possam entendê-los (independentemente da linguagem que utilizem).
 

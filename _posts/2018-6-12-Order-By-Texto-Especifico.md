@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Ordenar uma consulta por texto especifico
-tags: oracle
+tags: sql 
 ---
 
-A algum tempo foi preciso fazer a ordernação de uma coluna de uma maneira bem expecifica:
- - Aparecer por primeiro 3 registros expecificos.  
+A algum tempo foi preciso fazer a ordenação de uma coluna de uma maneira bem especifica:
+ - Aparecer por primeiro 3 registros especificos.  
  
-Isso sem nenhuma logica de ordenação possivel, veja abaixo como foi resolvido:
+Isso sem nenhuma lógica de ordenação possível, veja abaixo como foi resolvido:
 
 ```
 SELECT
@@ -23,5 +23,4 @@ CASE descricao
 END
 ```
 
-Resolvi fazendo um `CASE`, pois dessa forma se a "palavra" aparecesse seria ordenado pelo número 
-correspondede a ela, 0,1 ou 2, caso contrario seria mostrado posterior as mesmas.
+Resolvi fazendo um `CASE`, pois dessa forma se a "palavra" aparecesse seria ordenado pelo número correspondende a ela, 0,1 ou 2, caso contrário seria mostrado posterior as mesmas.

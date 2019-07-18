@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Escapar de caracteres especiais no cmd do windows
+tags: windows cmd
 ---
 
 Todas as versões do DOS interpretam certos caracteres antes de executar um comando. Alguns exemplos bem conhecidos são o sinal de porcentagem `%` e os símbolos de redirecionamento `<` `|` `>`. Também permitem o uso de *carets* `^` para escapar de caracteres especiais.
