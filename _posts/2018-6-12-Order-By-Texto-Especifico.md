@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordenar uma consulta por texto especifico
+title: Ordenar uma consulta por texto especifico com sql
 tags: sql 
 ---
 
