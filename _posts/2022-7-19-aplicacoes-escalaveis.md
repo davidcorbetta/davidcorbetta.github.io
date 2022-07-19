@@ -9,7 +9,7 @@ Uma arquitetura escalonável é focada para resolver problemas de sobrecarga de 
 
 Basicamente:
 ```
-Quanto > Aplicação = + Usuários + requisições = > infra = > Custo
+Quanto >Aplicação = + Usuários + requisições = >infra = >Custo
 ```
 
 ### **Dimensionamento**
@@ -17,31 +17,30 @@ Ter cargas de trabalho maior sobre a infra.
 
 #### **Vertical**
 ```
-Servidor = + CPU + MEM
+Servidor = +CPU +MEM
 ```
  
 #### **Horizontal**
 ```
-Instância 1 ou Instância 2 ou Instância 3, etc. -> Danco de Dados
+Instância 1 ou Instância 2, ou Instância 3, etc. -> Banco de Dados
 ```
 
 #### **Balanceador de carga:**
 
 ```bash
                                          |->  Instância 1 -> | 
-Requisição -> [balanceador de carga] ->  |->  Instância 2 -> | -> Danco de Dados
+Requisição -> [balanceador de carga] ->  |->  Instância 2 -> | -> Banco de Dados
                                          |->  Instância 3 -> | 
 ```
 
 #### **Dimensionamento Automatizado:**
 ```
-Capacidade > X% = + Instâncias
-Capacidade < X% = - Instâncias
+Capacidade >X% = + Instâncias
+Capacidade <X% = - Instâncias
 ```
 
 ### **Camada de Cache:**
-Armazena e compartilha sessões, armazenar informações com pouca alterção de forma a
-economizar e melhorar desempenho.
+Armazena e compartilha sessões, armazenar informações com pouca alteração, para economizar e melhorar desempenho.
 
 <hr>
 <sub>Fonte: https://dev.to/lucascavalcante/mas-afinal-o-que-e-significa-escalar-a-aplicacao-4kc7 </sub>
