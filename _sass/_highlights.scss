@@ -22,8 +22,11 @@ pre.highlight{
 } 
 
 table { border-collapse: collapse; }
-tr td th { border: 1px solid #cdcdcd; }
-th {background-color: #e7e7e7;}
+tr td { border: 1px solid #cdcdcd; }
+th { 
+  background-color: #e7e7e7;
+  border: 1px solid #cdcdcd;
+}
 
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
