@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aplicações Escaláveis - resumo/básico
-tags: scaçability infra 
+tags: scalability infra 
 ---
 
 Uma aplicação escalável ou escalonável, é uma aplicação que consegue atender um número maior de usuários ou requisição, mantendo um tempo de resposta apropriado.
