@@ -9,7 +9,7 @@ A algum tempo foi preciso fazer a ordenação de uma coluna de uma maneira bem e
  
 Isso sem nenhuma lógica de ordenação possível, veja abaixo como foi resolvido:
 
-```
+```sql
 SELECT
   descricao
 FROM
