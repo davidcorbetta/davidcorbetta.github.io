@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aplicações Escaláveis - resumo/básico
-tags: scalability infra 
+tags: scalability infra
 ---
 
 Uma aplicação escalável ou escalonável, é uma aplicação que consegue atender um número maior de usuários ou requisição, mantendo um tempo de resposta apropriado.
@@ -14,7 +14,7 @@ Então, basicamente:
 ### **Dimensionamento**
 Ter cargas de trabalho maior sobre a infra.
 #### **Vertical**
-Servidor = + CPU + MEM
+> Servidor = + CPU + MEM
 #### **Horizontal**
 Balanceador de carga:
 > requsição -> Instancia 1 ou Instancia 2 ou Instancia 3, etc.
