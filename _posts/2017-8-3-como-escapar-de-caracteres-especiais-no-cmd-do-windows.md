@@ -26,7 +26,7 @@ Dessa forma a senha recebida será realmente a `i@M}r43/3g%s,L;`.
 | & | ^& | |
 | < | ^< | |
 | > | ^> | |
-| \| | ^\| | teste |
+| \| | ^\| | |
 | ' | ^' |	Requerido apenas no "assunto" FOR / F (ou seja, entre os parênteses), a menos que backq seja usado |
 | \` | ^\` |	Requerido apenas no "assunto" FOR / F (ou seja, entre os parênteses), se backq for usado |
 | , | ^, |	Requerido apenas no "assunto" FOR / F (ou seja, entre os parênteses), mesmo em cordas duplas |
