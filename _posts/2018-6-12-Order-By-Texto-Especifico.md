@@ -9,7 +9,7 @@ A algum tempo foi preciso fazer a ordenação de uma coluna de uma maneira bem e
  
 Isso sem nenhuma lógica de ordenação possível, veja abaixo como foi resolvido:
 
-~~~sql
+```sql
 SELECT
   descricao
 FROM
@@ -22,6 +22,6 @@ CASE descricao
     ELSE 999
 END;
 /
-~~~
+```
 
 Utilizando `CASE` se a "palavra" aparecesse seria ordenado pelo número correspondende a ela, 0,1 ou 2, caso contrário seria mostrado posterior as mesmas.
