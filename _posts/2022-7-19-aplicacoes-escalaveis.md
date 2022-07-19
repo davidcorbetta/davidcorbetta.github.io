@@ -17,8 +17,8 @@ Ter cargas de trabalho maior sobre a infra.
 > Servidor = + CPU + MEM
 #### **Horizontal**
 Balanceador de carga:
-> requsição -> Instancia 1 ou Instancia 2 ou Instancia 3, etc.
+> Requisição -> Instância 1 ou Instância 2 ou Instância 3, etc.
 
 Auto scaling:
-> Capacidade > X% = + Instancias
+> Capacidade > X% = + Instâncias
 > Capacidade < X% = - Instâncias
