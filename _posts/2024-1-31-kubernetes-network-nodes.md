@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AWS - Network
-tags: aws infra network
+title: Kubernetes - Network
+tags: infra network kubernetes
 ---
-No contexto da rede na AWS, a comunicação eficiente entre Nodes, Pods e Containers é essencial para o funcionamento e [escalonamento das aplicações](2022-7-19-aplicacoes-escalaveis.md). Esses elementos desempenham papéis específicos na arquitetura de rede, garantindo a conectividade adequada e a troca de informações entre diferentes partes do sistema.
+No contexto da rede no Kuberenetes, a comunicação eficiente entre Nodes, Pods e Containers é essencial para o funcionamento e [escalonamento das aplicações](2022-7-19-aplicacoes-escalaveis.md). Esses elementos desempenham papéis específicos na arquitetura de rede, garantindo a conectividade adequada e a troca de informações entre diferentes partes do sistema.
 
 Observando a figura abaixo, temos um Node, e dentro dele temos pods, e dentro dos pods temos containers, segundo essa sequencia, vamos explicar a baixo a comunicação entre eles.
 
@@ -20,12 +20,11 @@ Mais detalhes sobre nodes consulte a  [documentação oficial][1]
 
 #### **Pods**
 
-Cada pod recebe um endereço IP exclusivo para cada família de endereços. Cada contêiner em um pod compartilha o namespace da rede, incluindo o endereço IP e as portas de rede. Dentro de um pod (e somente então), os contêineres que pertencem ao pod podem se comunicar entre si usando localhost. 
+Cada pod recebe um endereço IP exclusivo para cada família de endereços. Cada contêiner em um pod compartilha o namespace da rede, incluindo o endereço IP e as portas de rede. Dentro de um pod (e somente então), os contêineres que pertencem ao pod podem se comunicar entre si usando localhost.
 
 Quando os contêineres em um pod se comunicam com entidades fora do pod, eles devem coordenar a forma como usam os recursos de rede compartilhados (como portas). Dentro de um pod, os contêineres compartilham um endereço IP e espaço de porta e podem se encontrar por meio de arquivos localhost.
 
-
-Mais detalhes sobre Pods consulte a [documentação oficial][3]
+Mais detalhes sobre Pods consulte a [documentação oficial][2]
 
 #### **Containers**
 
@@ -35,10 +34,6 @@ Os contêineres dentro do pod consideram o nome do host do sistema igual ao conf
 
 Mais detalhes sobre containers consulte a [documentação oficial][3]
 
-
-
 [1]: https://kubernetes.io/docs/concepts/architecture/nodes/
-
 [2]: https://kubernetes.io/docs/concepts/workloads/pods/
-
 [3]: https://kubernetes.io/docs/concepts/containers/

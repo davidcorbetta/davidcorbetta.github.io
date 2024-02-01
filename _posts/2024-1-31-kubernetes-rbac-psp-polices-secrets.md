@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuberentes - Security
+title: Kubernetes - Security
 tags: kubernetes infra security
 ---
 #### **RBAC**
@@ -24,7 +24,6 @@ rules:
 ```
 
 Dessa forma podemos dar mais segurança aos componentes do Kubernetes, para mais detalhes e exemplos consulte a [documentação oficial sobre RBAC][1]
-
 
 
 #### **Secrets**
@@ -60,12 +59,7 @@ spec:
           readOnly: true
           mountPath: "/etc/secret-volume"
 ```
-Dessa forma temos mais segurança ao executar nosas aplicações, mais detalhes, consulte a [documentação oficial sobre Secrets][3]
-
-
-
-
+Dessa forma temos mais segurança ao executar nosas aplicações, mais detalhes, consulte a [documentação oficial sobre Secrets][2]
 
 [1]: https://kubernetes.io/docs/reference/access-authn-authz/rbac/
-[2]: https://kubernetes.io/docs/concepts/policy/pod-security-policy/
-[3]: https://kubernetes.io/docs/concepts/configuration/secret/
+[2]: https://kubernetes.io/docs/concepts/configuration/secret/
