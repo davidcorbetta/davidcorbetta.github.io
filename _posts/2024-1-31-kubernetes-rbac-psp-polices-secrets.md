@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kuberentes - Security
-tags: kuberenetes infra security
+tags: kubernetes infra security
 ---
 #### **RBAC**
 RBAC é um controle de segurança fundamental para garantir que os usuários e as cargas de trabalho do cluster tenham apenas acesso aos recursos necessários para executar suas funções. É importante garantir que, ao projetar permissões para usuários de cluster, o administrador do cluster entenda as áreas onde o escalonamento de privilégios pode ocorrer, para reduzir o risco de acesso excessivo que leve a incidentes de segurança.
