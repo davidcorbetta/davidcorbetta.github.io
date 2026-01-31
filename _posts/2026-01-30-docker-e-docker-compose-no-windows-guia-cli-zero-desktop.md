@@ -1,15 +1,15 @@
-# Docker e Docker-Compose no Windows: Guia CLI "Zero Desktop"
+## Docker e Docker-Compose no Windows: Guia CLI "Zero Desktop"
 
 Este guia ensina como configurar um ambiente de containers no Windows sem o peso do **Docker Desktop**, sem necessidade de gerenciar distros no **WSL** manualmente e utilizando apenas a **linha de comando**.
 
-## 🚀 Benefícios desta Abordagem
+### 🚀 Benefícios desta Abordagem
 * **Performance:** Economia de até 2GB de RAM em comparação ao Docker Desktop.
 * **Simplicidade:** Sem interfaces gráficas ou processos pesados em background.
 * **CLI nativa:** Use os comandos `docker` e `docker-compose` exatamente como faria no Linux.
 
 ---
 
-## 1. Instalação do Motor (Podman)
+### 1. Instalação do Motor (Podman)
 O Podman é um motor de containers open-source e *daemonless*. Instale-o via **Winget** (nativo do Windows):
 
 ```powershell
@@ -17,7 +17,7 @@ winget install -e --id RedHat.Podman
 
 ```
 
-## 2. Inicialização da Engine
+### 2. Inicialização da Engine
 
 O Podman gerencia sua própria máquina virtual leve. Execute uma única vez para configurar:
 
@@ -30,7 +30,7 @@ podman machine start
 
 ```
 
-## 3. Suporte ao Docker Compose
+### 3. Suporte ao Docker Compose
 
 O suporte ao Compose é adicionado via Python. Certifique-se de ter o Python instalado e execute:
 
@@ -40,7 +40,7 @@ pip install podman-compose
 
 ```
 
-## 4. Configuração de Aliases (PowerShell)
+### 4. Configuração de Aliases (PowerShell)
 
 Para que o seu terminal reconheça os comandos `docker` e `docker-compose`, adicione estas funções ao seu perfil do PowerShell:
 
@@ -60,7 +60,7 @@ function docker-compose { & python -m podman_compose $args }
 
 ---
 
-## 🛠️ Cheat Sheet de Uso Diário
+### 🛠️ Cheat Sheet de Uso Diário
 
 | Comando | Função |
 | --- | --- |
